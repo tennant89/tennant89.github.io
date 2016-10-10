@@ -1,6 +1,15 @@
 # tennant89.github.io
 tennant's responsive web design
 
+
+
+# TODO
+- [x] study markdown
+- [ ] make 'index.html'
+
+
+
+
 ## markdown 문법 사용법
 
 <!-- '''css -->
@@ -45,6 +54,8 @@ tennant's responsive web design
 - item2
 - item3
 
+
 1. item1
 1. item2
 1. item3
+
