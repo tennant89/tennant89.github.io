@@ -21,3 +21,30 @@ tennant's responsive web design
 #### markdown H4
 ##### markdown H5
 ###### markdown H6
+
+
+### 목록
+
+'''html
+<ul>
+	<li>item1</li>
+	<li>item2</li>
+	<li>item3</li>
+</ul>
+
+<ol>
+	<li>item1</li>
+	<li>item2</li>
+	<li>item3</li>
+</ol>
+
+'''
+
+
+- item1
+- item2
+- item3
+
+1. item1
+1. item2
+1. item3
