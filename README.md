@@ -5,7 +5,7 @@ tennant's responsive web design
 
 # TODO
 - [x] study markdown
-- [ ] make 'index.html'
+- [ ] make `index.html`
 
 
 
