@@ -80,3 +80,12 @@ tennant's responsive web design
 - [디자이너에게 영감을 주는 사이트] (http://www.naver.com)
 - [(랭킹박스) 수입이 많은 유튜버 TOP 7] (https://www.youtube.com/watch?v=LSFM5X5St3c)
 - ['세계 최장수 재위' 푸미폰 태국 국왕, 건강 이상] (http://media.daum.net/foreign/all/newsview?newsid=20161010193505839)
+
+
+### 인용구문
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+HTML 안에서는 `<blockquote>` 요소를 사용하여 인용절을 구조화한다.
+
+> "Design is All. All is Design."<br>
+> "나는 이것이다.<br>
+> "Learn By Doing"<br>
