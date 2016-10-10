@@ -1,4 +1,7 @@
 body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	min-height: 100vh;
 	margin: 0
 	font: 1rem; "spoqa han sans", Dotum, Sans-Serif;
@@ -10,4 +13,13 @@ h1 {
 	margin: 0;
 	font-weight: 200;
 	font-size: 5rem;
+	animation: wiggle 6s infinite;
+}
+
+@keyframes wiggle {
+	0%, 50%, 100% {
+		text-shadow: 0 0 10px #3e180d;
+		transform: scale(1);
+		opacity: ;
+	}
 }
