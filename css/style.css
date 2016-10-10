@@ -3,7 +3,7 @@ body {
 	margin: 0
 	font: 1rem; "spoqa han sans", Dotum, Sans-Serif;
 	color: #fff;
-	background: #000 url("images/main-page-bg.png") no-repeat center top;
+	background: #000 url("../images/main-page-bg.png") no-repeat center top;
 }
 
 h1 {
