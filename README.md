@@ -8,8 +8,6 @@ tennant's responsive web design
 - [ ] make `index.html`
 
 
-
-
 ## markdown 문법 사용법
 
 <!-- '''css -->
@@ -59,3 +57,11 @@ tennant's responsive web design
 1. item2
 1. item3
 
+
+### 이미지
+
+'''html
+<img src="http://mblogthumb1.phinf.naver.net/20160405_36/mkhjsk_1459858119290I4m1S_PNG/%B6%F3%C0%CC%BE%F0.png?type=w2" alt="RYAN">
+'''
+
+! [RYAN] ("http://mblogthumb1.phinf.naver.net/20160405_36/mkhjsk_1459858119290I4m1S_PNG/%B6%F3%C0%CC%BE%F0.png?type=w2")
