@@ -62,8 +62,10 @@ tennant's responsive web design
 
 '''html
 <img src="http://mblogthumb1.phinf.naver.net/20160405_36/mkhjsk_1459858119290I4m1S_PNG/%B6%F3%C0%CC%BE%F0.png?type=w2" alt="RYAN">
+'''
+
 
 <img src="http://mblogthumb1.phinf.naver.net/20160405_36/mkhjsk_1459858119290I4m1S_PNG/%B6%F3%C0%CC%BE%F0.png?type=w2" alt="RYAN" width="210" height="350">
 
 
-![RYAN] ("http://mblogthumb1.phinf.naver.net/20160405_36/mkhjsk_1459858119290I4m1S_PNG/%B6%F3%C0%CC%BE%F0.png?type=w2")
+![RYAN] (image/ryan.png)
