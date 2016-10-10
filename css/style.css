@@ -1,0 +1,13 @@
+body {
+	min-height: 100vh;
+	margin: 0
+	font: 1rem; "spoqa han sans", Dotum, Sans-Serif;
+	color: #fff;
+	background: #000 url("../images/main-page-bg.jpg") no-repeat center top;
+}
+
+h1 {
+	margin: 0;
+	font-weight: 200;
+	font-size: 5rem;
+}
