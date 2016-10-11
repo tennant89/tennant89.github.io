@@ -16,10 +16,14 @@ h1 {
 	animation: wiggle 6s infinite;
 }
 
-@keyframes wiggle {
-	0%, 50%, 100% {
-		text-shadow: 0 0 10px #3e180d;
-		transform: scale(1);
-		opacity: ;
-	}
+@keyframes wiggle { 
+	0%, 50%, 100% { 
+	text-shadow: 0 0 10px #3e180d; 
+	transform: scale(1); 
+	opacity: 0.6; 
+} 
+	25%, 75% { 
+	text-shadow: 0 0 2px #3e180d; 
+	transform: scale(1.1); 
+	opacity: 1; } 
 }
